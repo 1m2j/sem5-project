@@ -1,2 +1,3 @@
 # sem5-project
-online grocery shop(Mart Plaza) 
+online grocery shop
+made this project with venilla code
